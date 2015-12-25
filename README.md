@@ -31,6 +31,7 @@
 * [facebook android open source](https://code.facebook.com/android/)
 * [美团技术博客](http://tech.meituan.com/)
 * [腾讯bugly](http://bugly.qq.com/blog/)
+* [稀土掘金](http://gold.xitu.io/)
 * [android-cn-discuss](https://github.com/android-cn/android-discuss/issues)
 * [Startup News](http://news.dbanotes.net/) 
 * [app开发日报](http://forum.memect.com/blog/thread-category/app/)
